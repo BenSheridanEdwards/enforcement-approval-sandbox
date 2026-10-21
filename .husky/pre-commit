@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-true
+exit 0
